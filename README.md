@@ -50,4 +50,7 @@ scrape、jq、json2csv
 * 评估结查的含义
 * 告知你的结果
 
+命令行的5个重要优势:  
+> 活性、可增强、可扩展、可扩充、无处不在  
 ## 第2章 VirtualBox
+`` data-science-toolbox/data-science-at-the-command-line ``
