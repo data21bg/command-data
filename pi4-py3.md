@@ -14,3 +14,8 @@ sudo apt install python3-pip python-pip
 sudo apt-get install ipython3
 
 ’‘’
+
+## 数据
+https://github.com/jeroenjanssens/data-science-at-the-command-line/tree/1e
+
+> 新版 https://book.douban.com/review/9869768/

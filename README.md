@@ -10,8 +10,12 @@ https://github.com/jeroenjanssens/data-science-at-the-command-line
   第2版 en   改vBox为docker；
 > 最新版本已经使用docker来建「虚拟环境」了，2014年的版本是用VirtualBox  
 > 高级操作要借助别的语言，可视化是用的R，建模是用的Tapkee
-个人网站是 http://jeroenjanssens.com/  
-http://datascienceatthecommandline.com/
+个人网站 http://jeroenjanssens.com/  
+
+书有两版：  
+> https://www.datascienceatthecommandline.com/2e/  
+> https://www.datascienceatthecommandline.com/1e/  
+
 
 cut、sort、sed  
 scrape、jq、json2csv  
