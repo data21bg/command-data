@@ -53,4 +53,22 @@ scrape、jq、json2csv
 命令行的5个重要优势:  
 > 活性、可增强、可扩展、可扩充、无处不在  
 ## 第2章 VirtualBox
-`` data-science-toolbox/data-science-at-the-command-line ``
+~~ data-science-toolbox/data-science-at-the-command-line ~~
+
+
+## 第3章　数据获取
+
+## 第4章　创建可重用的命令行工具
+
+## 第5章　数据清洗
+
+## 第6章　管理数据工作流
+
+## 第7章　数据探索
+
+## 第8章　并行管道
+
+## 第9章　数据建模　
+
+## 第10章　总结
+有耐心、有所创新和肯于实践。
